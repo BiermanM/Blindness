@@ -24,3 +24,13 @@
 * Game (with proc gen'd terrain) where the only thing you can see is the sounds around you
   * similar to Notes on Blindness (http://www.notesonblindness.co.uk/vr/)
 * gym buddy app
+
+# Final Selections
+1. sign language
+2. vr home
+3. interactive math
+4. game score alexa
+5. daily schedule alexa
+6. copy/paste
+7. blind game
+8. gym buddy

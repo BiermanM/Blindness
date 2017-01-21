@@ -9,3 +9,4 @@
 * Use raspberry pi to replace car radio
   * voice control
 * interactive math solving (like https://matrixmultiplication.xyz)
+* Alexa skill to assist visually impaired people.

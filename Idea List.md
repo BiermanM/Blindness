@@ -26,11 +26,11 @@
 * gym buddy app
 
 # Final Selections
-1. sign language
-2. vr home
-3. interactive math
-4. game score alexa
-5. daily schedule alexa
-6. copy/paste
-7. blind game
-8. gym buddy
+1. sign language         +
+2. vr home               +++
+3. interactive math      
+4. game score alexa      ++
+5. daily schedule alexa  
+6. copy/paste            ++
+7. blind game            +++
+8. gym buddy             +

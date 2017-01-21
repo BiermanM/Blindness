@@ -25,3 +25,5 @@
 * Website that has a search bar for which companies are open source and links to their open source projects
 * App/Website like https://play.google.com/store/apps/details?id=fema.serietv2 but for video games
   * Track progress of upcoming games
+* Game (with proc gen'd terrain) where the only thing you can see is the sounds around you
+  * similar to Notes on Blindness (http://www.notesonblindness.co.uk/vr/)

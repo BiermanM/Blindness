@@ -6,4 +6,6 @@
   * options to move throughout house
   * options to change furniture throughout house
   * use voice to move between rooms?
-  
+* Use raspberry pi to replace car radio
+  * voice control
+* interactive math solving (like https://matrixmultiplication.xyz)

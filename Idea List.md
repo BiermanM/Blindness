@@ -8,7 +8,6 @@
   * use voice to move between rooms?
 * Use raspberry pi to replace car radio
   * voice control
-* Alexa skill to assist visually impaired people.
 * interactive math solving (like https://matrixmultiplication.xyz)
 * Use Cycle to convert GitHub to container
 * Use Alexa/Home to speak game scores as they happen live

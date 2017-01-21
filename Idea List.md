@@ -15,3 +15,10 @@
 * Use Alexa to your daily schedule that you configure
   * e.g. Turn on lights, set thermostat, etc. every day all with one verbal command
 * voice command to tell pandora to thumb up or down a song or skip
+* Compression idea:
+  * Step 1: Get hex of every file
+  * Step 2: See which set of 4, 6, 8, etc. chars are most popular
+  * Step 3: Find sets of chars of smaller size that don't exist in file
+  * Step 4: Replace most popular sets with smaller sets
+  * Step 5: Add notifier at bottom of file that has the changes, to allow it to be decompressed
+* Copy/Paste Queue (Ctrl+C+1, ... Ctrl+C+10)

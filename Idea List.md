@@ -27,3 +27,4 @@
   * Track progress of upcoming games
 * Game (with proc gen'd terrain) where the only thing you can see is the sounds around you
   * similar to Notes on Blindness (http://www.notesonblindness.co.uk/vr/)
+* gym buddy app

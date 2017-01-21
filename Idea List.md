@@ -9,3 +9,7 @@
 * Use raspberry pi to replace car radio
   * voice control
 * interactive math solving (like https://matrixmultiplication.xyz)
+* Use Cycle to convert GitHub to container
+* Use Alexa/Home to speak game scores as they happen live
+* Use Alexa to your daily schedule that you configure
+  * e.g. Turn on lights, set thermostat, etc. every day all with one verbal command

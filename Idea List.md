@@ -1,2 +1,2 @@
 # Project Ideas
-1.
+1. Sign Language Translator

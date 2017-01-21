@@ -22,3 +22,4 @@
   * Step 4: Replace most popular sets with smaller sets
   * Step 5: Add notifier at bottom of file that has the changes, to allow it to be decompressed
 * Copy/Paste Queue (Ctrl+C+1, ... Ctrl+C+10)
+* Website that has a search bar for which companies are open source and links to their open source projects

@@ -382,9 +382,8 @@ MonoBehaviour:
   m_Text: "Move your character with the W,A,S,D keys.\r\nThe goal is to find your
     classroom before time runs out.\r\nYou can \u201Chear\u201D your immediate surroundings,
     but they will fade if you move away or stay still too long. \r\nWalk up to a door
-    and press the space bar to see if it is your classroom. \r\nIf it is the correct
-    room the door will open, otherwise it will tell you it is locked and the room
-    number. \r\n\r\n"
+    to see if it is your classroom. \r\nIf it is the correct room the door will open,
+    otherwise it will tell you it is locked and the room number. \r\n\r\n"
 --- !u!222 &1457239856
 CanvasRenderer:
   m_ObjectHideFlags: 0

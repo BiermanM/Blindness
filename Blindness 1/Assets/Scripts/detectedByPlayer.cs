@@ -32,9 +32,7 @@ public class detectedByPlayer : MonoBehaviour {
 
 				yield return new WaitForSeconds (0.001f);
 			}
-
-			gameObject.GetComponent<BoxCollider2D> ().size = new Vector3 (0, 0);
-
+				
 			alpha = 0.519779f;
 			renderer.color = new Color (red, green, blue, alpha);
 			for (int x = 0; x < 255; x++)
@@ -46,7 +44,6 @@ public class detectedByPlayer : MonoBehaviour {
 				yield return new WaitForSeconds (0.07f);
 			}
 
-			gameObject.GetComponent<BoxCollider2D> ().size = new Vector3 (2.5f, 2f);
 			renderer.color = new Color (0, 0, 0, 0);
 		}
 	}
